@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1633062620 source:c:\users\-\onedrive\escritorio\ejercicio filas\ejercfilasnoe\fila.c
+	"Fila.h"
+
+1633062643 c:\users\-\onedrive\escritorio\ejercicio filas\ejercfilasnoe\fila.h
+	<stdlib.h>
+
+1633061949 source:c:\users\-\onedrive\escritorio\ejercicio filas\ejercfilasnoe\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Fila.h"
+
